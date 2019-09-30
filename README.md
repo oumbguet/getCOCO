@@ -13,7 +13,7 @@
 * zip (to unzip annotations)
 
 ```
-pip install (setuptools|numpy|cython|matplotlib|requets)
+pip install (setuptools|numpy|cython|matplotlib|requests)
 ```
 
 ## Installation
