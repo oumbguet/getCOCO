@@ -7,9 +7,10 @@
 * setuptools
 * numpy
 * cython
+* matplotlib
 
 ```
-pip install (setuptools|numpy|cython)
+pip install (setuptools|numpy|cython|matplotlib)
 ```
 
 ## Installation
