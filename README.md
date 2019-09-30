@@ -4,13 +4,15 @@
 
 * linux environment
 * python
+* tkinter
 * setuptools
 * numpy
 * cython
 * matplotlib
+* requests
 
 ```
-pip install (setuptools|numpy|cython|matplotlib)
+pip install (setuptools|numpy|cython|matplotlib|requets)
 ```
 
 ## Installation
